@@ -2,7 +2,7 @@
 
 ### 📊 GitHub Activity
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Typing Animation">
+<img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="500" alt="Typing Animation">
 
 
 ## Software Developer | MERN Stack | Python & Java Enthusiast
