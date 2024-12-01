@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="500" alt="Typing Animation">
 
 
-## Software Developer | MERN Stack | Python & Java Enthusiast
+## Software Developer | MERN Stack | Python & Java
 
 I'm James, a dedicated software developer passionate about creating impactful applications. I thrive on learning and mastering new technologies, with a strong foundation in languages like Python, JavaScript, and Java. My primary focus is on full-stack development with the MERN Stack, complemented by a growing expertise in backend development using Java. I am committed to continuously improving my skills and staying ahead in the ever-evolving tech landscape.
 
