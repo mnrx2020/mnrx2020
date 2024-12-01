@@ -21,7 +21,7 @@ I'm James from Kenya, a dedicated software developer passionate about creating i
 
 ### 📊 GitHub Activity
 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500" alt="Typing Animation">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Typing Animation">
 
 
 ### 📫 Get in Touch
