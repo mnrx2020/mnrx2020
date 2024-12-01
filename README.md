@@ -19,9 +19,10 @@ I'm James from Kenya, a dedicated software developer passionate about creating i
 - **[Job API](https://mnrx-jobs-api-app-api.onrender.com/api-docs/)**: A RESTful job management API created with Node.js and Express.js for managing job listings and searches.
 - **[MERN Food Delivery App](https://mnrx-mern-food-delivery-frontend-app.onrender.com/)**: A full-stack food delivery app featuring a responsive frontend, user authentication, and a powerful backend.
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnrx2020&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500" alt="Typing Animation">
+
 
 ### 📫 Get in Touch
 
