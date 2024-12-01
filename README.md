@@ -21,7 +21,8 @@ I'm James from Kenya, a software developer passionate about building impactful a
 
 ### 📊 GitHub Stats
 
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnrx2020&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnrx2020&hide=issues,stars)
+
 
 ### 📫 Get in Touch
 
