@@ -15,9 +15,9 @@ I'm James from Kenya, a software developer passionate about building impactful a
 
 ### 🚀 Projects
 
-- **[Discover Admin Dashboard](https://mnrx.netlify.app)**: A responsive and dynamic admin dashboard built with the MERN stack and TypeScript.
-- **[Job API](https://mnrx2020.github.io/jobs-api/)**: A RESTful job management API created with Node.js and Express.js for managing job listings and searches.
-- **[MERN Food Delivery App](https://metanextechrx-fooddelivery.netlify.app/)**: A full-stack food delivery app featuring a responsive frontend, user authentication, and a powerful backend.
+- **[Discover Admin Dashboard](https://mnrx-mern-admin-dashboard-client-app.onrender.com/dashboard)**: A responsive and dynamic admin dashboard built with the MERN stack and TypeScript.
+- **[Job API](https://mnrx-jobs-api-app-api.onrender.com/api-docs/)**: A RESTful job management API created with Node.js and Express.js for managing job listings and searches.
+- **[MERN Food Delivery App](https://mnrx-mern-food-delivery-frontend-app.onrender.com/)**: A full-stack food delivery app featuring a responsive frontend, user authentication, and a powerful backend.
 
 ### 📊 GitHub Stats
 
