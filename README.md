@@ -23,6 +23,13 @@ I'm James from Kenya, a dedicated software developer passionate about creating i
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Typing Animation">
 
+<img src="https://media.giphy.com/media/5xX2pB4lOtP6uDNhD4/giphy.gif" width="500" alt="Typing Animation">
+
+<img src="https://media.giphy.com/media/ohT58IEOgbc3o4MBp9/giphy.gif" width="500" alt="Typing Animation">
+
+<img src="https://media.giphy.com/media/s2WklZfaCu97KrXX2s/giphy.gif" width="500" alt="Typing Animation">
+
+
 
 ### 📫 Get in Touch
 
