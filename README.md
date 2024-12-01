@@ -1,5 +1,9 @@
 # Hi, I'm James Mbere 👋
 
+### 📊 GitHub Activity
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Typing Animation">
+
 ## Software Developer | MERN Stack | Python & Java Enthusiast
 
 I'm James from Kenya, a dedicated software developer passionate about creating impactful applications. I thrive on learning and mastering new technologies, with a strong foundation in languages like Python, JavaScript, and Java. My primary focus is on full-stack development with the MERN Stack, complemented by a growing expertise in backend development using Java. I am committed to continuously improving my skills and staying ahead in the ever-evolving tech landscape.
@@ -19,9 +23,7 @@ I'm James from Kenya, a dedicated software developer passionate about creating i
 - **[Job API](https://mnrx-jobs-api-app-api.onrender.com/api-docs/)**: A RESTful job management API created with Node.js and Express.js for managing job listings and searches.
 - **[MERN Food Delivery App](https://mnrx-mern-food-delivery-frontend-app.onrender.com/)**: A full-stack food delivery app featuring a responsive frontend, user authentication, and a powerful backend.
 
-### 📊 GitHub Activity
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Typing Animation">
 
 ### 📫 Get in Touch
 
