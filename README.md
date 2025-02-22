@@ -12,7 +12,7 @@ I'm James, a dedicated software developer passionate about creating impactful ap
 ### 🛠️ Skills
 
 - **Frontend**: React, HTML, CSS, JavaScript (ES6+), TypeScript
-- **Backend**: Node.js, Express.js, RESTful APIs
+- **Backend**: Node.js, Express.js, RESTful APIs, Spring Boot
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Languages**: Python, Java, C, JavaScript
 - **Version Control**: Git, GitHub
